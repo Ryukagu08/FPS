@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ddd878d1f19d33f45880f99f1b22ed98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scripts/UI/Message.cs
+  uploadId: 704532

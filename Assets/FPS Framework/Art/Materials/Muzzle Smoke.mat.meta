@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a57b6ddba9c3eed41938aa717d566193
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Art/Materials/Muzzle Smoke.mat
+  uploadId: 704532

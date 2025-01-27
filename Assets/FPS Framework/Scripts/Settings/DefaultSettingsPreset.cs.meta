@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6fd88de952859a849a5a4bbba3b768c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scripts/Settings/DefaultSettingsPreset.cs
+  uploadId: 704532

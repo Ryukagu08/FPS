@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a24e368b9476e42429b936d0ee0c65bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scripts/Callback Functions/IOnAnyHitInChildren.cs
+  uploadId: 704532

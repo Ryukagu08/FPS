@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7c2f5ab657b9aa3468f28d99b583558f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scripts/AttachementBehavior.cs
+  uploadId: 704532

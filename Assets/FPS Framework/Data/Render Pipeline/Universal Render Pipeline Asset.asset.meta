@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 316e6db19178d5044a8e9962bb2cbf3a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Data/Render Pipeline/Universal Render Pipeline
+    Asset.asset
+  uploadId: 704532

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45444bed78d2395449569aa14f046621
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Explosives/Gernade.prefab
+  uploadId: 704532

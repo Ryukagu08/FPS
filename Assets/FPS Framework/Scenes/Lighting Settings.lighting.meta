@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74f596b299b7fc842a479f7af0a658fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scenes/Lighting Settings.lighting
+  uploadId: 704532

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e30ca1aba47debd4a94a98284a723cc3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Art/Materials/Muzzle Flash.mat
+  uploadId: 704532

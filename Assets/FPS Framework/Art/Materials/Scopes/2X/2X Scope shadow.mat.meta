@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc0fc50ddd9a7c5498ff787581f77202
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Art/Materials/Scopes/2X/2X Scope shadow.mat
+  uploadId: 704532

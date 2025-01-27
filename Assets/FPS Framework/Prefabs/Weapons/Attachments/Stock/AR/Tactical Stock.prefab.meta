@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4aa3b90980b92564daf1b2b0e0be53b1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Weapons/Attachments/Stock/AR/Tactical Stock.prefab
+  uploadId: 704532

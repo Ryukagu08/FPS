@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e6ef95fef9f9f134eab1549faf0321bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scripts/UI/CarouselSelector.cs
+  uploadId: 704532

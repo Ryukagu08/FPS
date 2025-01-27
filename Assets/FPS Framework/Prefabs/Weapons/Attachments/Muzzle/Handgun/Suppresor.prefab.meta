@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2e505c9360adef4f970e2215cd2d550
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Weapons/Attachments/Muzzle/Handgun/Suppresor.prefab
+  uploadId: 704532

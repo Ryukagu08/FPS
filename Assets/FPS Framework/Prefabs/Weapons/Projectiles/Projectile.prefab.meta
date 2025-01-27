@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 788a3d3b8ecc33d4989926185282c05d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Weapons/Projectiles/Projectile.prefab
+  uploadId: 704532

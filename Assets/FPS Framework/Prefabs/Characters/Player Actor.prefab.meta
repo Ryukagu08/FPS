@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ba665d86e726e94fa1a7ff2eb72639c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Characters/Player Actor.prefab
+  uploadId: 704532

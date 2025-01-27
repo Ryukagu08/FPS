@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bb9deb4b6e5b75428d34e6b9dc49d45
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Art/Animations/Clips/UI/Kill Feed/Counter.controller
+  uploadId: 704532

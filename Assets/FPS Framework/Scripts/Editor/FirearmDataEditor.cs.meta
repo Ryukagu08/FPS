@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 533af697ee480254d8f7af6095c74a9a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scripts/Editor/FirearmDataEditor.cs
+  uploadId: 704532

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d94bb0b2a14af54289a4c826a6c2e35
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/HUD/Elements/Hitmarker.prefab
+  uploadId: 704532

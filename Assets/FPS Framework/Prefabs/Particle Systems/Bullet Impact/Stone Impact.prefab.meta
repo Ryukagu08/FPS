@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4edabb1c0dde62743b137378c7d22980
+timeCreated: 1473691195
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Particle Systems/Bullet Impact/Stone Impact.prefab
+  uploadId: 704532

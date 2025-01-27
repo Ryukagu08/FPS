@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5ee54fbee1eb324885685587ad3ca05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Art/Materials/Sparks.mat
+  uploadId: 704532

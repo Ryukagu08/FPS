@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b30dd35ea4501c94e8005a27cdfd4700
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/HUD/Crosshair Readme.txt
+  uploadId: 704532

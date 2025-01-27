@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50290b5c671fc9a4797001b30243452c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Pickupables/Gernade Pickable.prefab
+  uploadId: 704532

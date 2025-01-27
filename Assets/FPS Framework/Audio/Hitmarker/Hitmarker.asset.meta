@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c119d5574533eb4faf7916ec62c741b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Audio/Hitmarker/Hitmarker.asset
+  uploadId: 704532

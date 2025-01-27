@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb69c54cfaddd4f4f83532296286037c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Weapons/Bullets/5mm Bullet.prefab
+  uploadId: 704532

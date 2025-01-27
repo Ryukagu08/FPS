@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c62fab7b9f18d54c813d7febc93f0bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Art/Animations/Clips/UI/Ping/Ping.controller
+  uploadId: 704532

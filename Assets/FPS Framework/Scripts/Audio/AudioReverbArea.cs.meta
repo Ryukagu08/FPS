@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 79d60f11bfaee534c8dc0bb4e3a267fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scripts/Audio/AudioReverbArea.cs
+  uploadId: 704532

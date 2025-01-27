@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9efa635e0a33d344aa68a8198890b1da
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Particle Systems/Explosion.prefab
+  uploadId: 704532

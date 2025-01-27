@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3fe9ff5d093b4c947ae69377b1ed9270
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Weapons/Attachments/Sight/Holographic Sight.prefab
+  uploadId: 704532

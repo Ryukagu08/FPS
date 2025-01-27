@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b9f6cbe9b5f1de4598c5ec2c2cc031d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/World/Game Manager.prefab
+  uploadId: 704532

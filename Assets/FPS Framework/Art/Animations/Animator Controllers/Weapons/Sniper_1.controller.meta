@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8982dd7354e3ffd4e9ac4f0151ad1eca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Art/Animations/Animator Controllers/Weapons/Sniper_1.controller
+  uploadId: 704532

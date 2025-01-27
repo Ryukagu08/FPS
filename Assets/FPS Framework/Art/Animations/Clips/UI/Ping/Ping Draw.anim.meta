@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9ae029ba20097d4e8702ec9e7697081
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Art/Animations/Clips/UI/Ping/Ping Draw.anim
+  uploadId: 704532

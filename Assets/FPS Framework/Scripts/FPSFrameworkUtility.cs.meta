@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b5023797a4b773e4d9775d6f1dd13fd3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scripts/FPSFrameworkUtility.cs
+  uploadId: 704532

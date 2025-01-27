@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0312c2af7b09ef54e861db9a14ee785d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/HUD/Elements/Kill Feed.prefab
+  uploadId: 704532

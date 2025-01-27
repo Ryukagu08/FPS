@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3fc5b6c25f2c78146ad3c0c90edebc83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scripts/ProceduralAnimation/WaveModifier.cs
+  uploadId: 704532

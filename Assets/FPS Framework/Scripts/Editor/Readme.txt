@@ -1,0 +1,1 @@
+Please don't move scripts outside this folder moving them out might cause build errors.

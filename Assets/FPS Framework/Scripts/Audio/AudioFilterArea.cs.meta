@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aaa8d9f9413ba2e4ca73235657046bc6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scripts/Audio/AudioFilterArea.cs
+  uploadId: 704532

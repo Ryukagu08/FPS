@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba5b97eed98a6c64db371b6d9103887d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Weapons/Attachments/Muzzle/Shotgun/Suppressor.prefab
+  uploadId: 704532

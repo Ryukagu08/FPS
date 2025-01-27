@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bdc8b86f954087441b3fa51ff5c7c7b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Scenes/Demo/LightingData.asset
+  uploadId: 704532

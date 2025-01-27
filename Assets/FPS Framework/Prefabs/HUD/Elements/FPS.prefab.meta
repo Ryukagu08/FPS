@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fab855140769dc4ebc97dca99156c78
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/HUD/Elements/FPS.prefab
+  uploadId: 704532

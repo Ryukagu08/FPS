@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa9aa3fb98d3df14d81c6fa31cc9ab2a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Art/Terrains/Terrain.asset
+  uploadId: 704532

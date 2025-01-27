@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c69369ca5d72954586f004d3ac27aeb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Pickupables/Ammo/5.56mm Ammo.prefab
+  uploadId: 704532

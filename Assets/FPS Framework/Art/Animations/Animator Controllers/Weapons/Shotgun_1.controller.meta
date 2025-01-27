@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b5f202f00077264abb592749110e8d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Art/Animations/Animator Controllers/Weapons/Shotgun_1.controller
+  uploadId: 704532

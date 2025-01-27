@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 13c26d8b7b0d3d345962e08d9a78f6c5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Pickupables/Ammo/9mm Ammo.prefab
+  uploadId: 704532

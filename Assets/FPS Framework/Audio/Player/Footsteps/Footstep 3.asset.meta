@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acb61219cc16b834a9c7f2357e51cc29
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Audio/Player/Footsteps/Footstep 3.asset
+  uploadId: 704532

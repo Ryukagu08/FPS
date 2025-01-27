@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e749bec7d97e5b2448fde70b83e2a15d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Audio/Player/Ammo Pickup.asset
+  uploadId: 704532

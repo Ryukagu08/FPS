@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b9015533f83d97449fdeea0b552d358
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Turret.prefab
+  uploadId: 704532

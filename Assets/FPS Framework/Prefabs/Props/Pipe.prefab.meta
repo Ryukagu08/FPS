@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1de12ffebfb4a1c4b86b9c08f995d843
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/Props/Pipe.prefab
+  uploadId: 704532

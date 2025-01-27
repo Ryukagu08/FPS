@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84e86c88a365a1c4ebfdf835fd34e678
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217379
+  packageName: FPS Framework
+  packageVersion: 1.92
+  assetPath: Assets/FPS Framework/Prefabs/HUD/Elements/Crosshair/Default Crosshair.prefab
+  uploadId: 704532
