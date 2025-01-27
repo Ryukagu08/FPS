@@ -1,1 +1,0 @@
-To disable the raycasted crosshair remove FloatingRect from the crosshair child
