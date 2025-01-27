@@ -31,13 +31,14 @@ public class Player : MonoBehaviour
         playerCamera.UpdateRotation(cameraInput);
 
         // Get character input and update it.
-        var characterInput = new CharacterInput { Rotation = playerCamera.transform.rotation };
+        var characterInput = new CharacterInput 
+        { 
+            Rotation = playerCamera.transform.rotation,
+            Move     = input.Move.ReadValue<Vector2>(),
+            Jump     = input.Jump.WasPressedThisFrame()
+        };
         playerCharacter.UpdateInput(characterInput);
-    }
 
-    private void LateUpdate()
-    {
         playerCamera.UpdatePosition(playerCharacter.GetCameraTarget());
     }
-
 }
